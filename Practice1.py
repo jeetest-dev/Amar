@@ -1,0 +1,5 @@
+ashoka_height = float(1.70)
+yoda_height = float(0.66)
+r2d2_height = float(1.09)
+c3p0_height = float(1.75)
+print((ashoka_height + yoda_height + r2d2_height + c3p0_height)/4)
